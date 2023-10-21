@@ -1,0 +1,63 @@
+<html>
+
+   <head>
+        <title>J1151</title>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    <body>
+            <p><b>Name:</b> Abel Semahegn</p>
+            <p><b>Journal:</b> J1151</p>
+            <p><b>Date:</b>January 20 2023</p>
+            <hr>
+            <p><b>I recived help from:</b>N/A</p>
+            <p><b>I helped:</b>N/A</p>
+            <hr>
+            <p><b>I recived help from:</b>N/A</p>
+            <p><b>I helped:</b>N/A</p>
+            <hr>
+            <p><b>1:</b>How does branching enable significantly more complex program behavior?</p>
+            <p><b>1.1:</b>It allows diferent out commes in a program</p>
+            <hr>
+            <p><b>2:</b>Why do you think the term consequent is used to refer to the statements that are executed when the Boolean test evaluates to true?</p>
+            <p><b>2.1:</b>to show the reaction in the true state</p>
+            <hr>
+            <p><b>3:</b>Why is the first Jump instruction conditional? What determines whether the jump will be executed or not?</p>
+            <p><b>3.1:</b>jump is executed to the alternative, otherwise execution continues with the consequent.</p>
+            <p><b>3.2:</b>if the first conditional brakes then it will execute</p>
+            <hr>
+            <p><b>4:</b>What is the purpose of the Jump instruction after the consequent? </p>
+            <p><b>4.1:</b>to catch the false</p>
+            <hr>
+            <p><b>5:</b>Why is there no need for a corresponding Jump instruction after the alternative? </p>
+            <p><b>5.1:</b>you cought all relevent cases</p>
+            <hr>
+	    <a href = "../Untitled Diagram.drawio.xml"><img src="../Untitled Diagram.drawio.png" alt="Italian Trulli"></a>
+	    <hr>
+	    <a href = "./tmp/light-flow.xml"><img src= "./tmp/light-flow.png"></a>
+	    <hr>
+	    <a href ="./tmp/pbjflow.xml"><img src= "./tmp/pbj-flow.png"></a>
+	    <hr>
+	    <a href ="./tmp/rgy-flow.xml"><img src="./tmmp/rgy-flow.png"></a>
+	    <hr>
+	    <a href ="./tmp/stop-flow.xml"><img src= "./tmp/stop-flow.png"></a>
+	    <hr>
+	    <a href ="./tmp/turn-flow.xml"><img src= "./tmp/turn-flow.png"></a>
+	    <hr>
+            <h2>What did I learn? What is the "big idea"?</h2>
+            <p>conditional statement</p>
+
+            <h2>What challenges did I encounter?</h2>
+            <p>not much but was a long read</p>
+                                                                                              
+            <h2>How could this experience be improved?</h2>
+            <p>add a video</p>
+                                                                                
+            <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
+            <p>made me think deeper</p>
+
+
+  </body>
+</html>
+      
+
+

@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="mystyle.css">
+    <title>ISP journal</title>
+  </head>
+  <body>
+    <center><h1>Abel Semahegn Welcomes You to His Independent Study Project!</h1></center>
+    <main>
+      
+      <h1>ISP Journal</h1>
+      <h2>16-Jan-2023</h2>
+      <h2> 2-Jan-2023</h2>
+      <p>We just started setting up github to manage version control</p>
+      <p>
+	Software Engineer: The software engineer codes the project. They are the ones that add anything to the game. Also, they make the controls and all the graphics. They will also keep the game updated. I wouldn't be very good at theis job because I have very little expirience with any coding.
+<br><br/>
+	QA Engineer: The QA engineer is the one that checks the quality of the game. They find any major glitches that could affect gameplay and help the developers fix them. They are important to several industries like food and automotive. I think that I could be good at testing the game for glitches, but fixing them would be hard for me.
+<br><br/>
+	Project Manager: The project manager is the one that oversees the group. The delegate jobs, oversee planning, and set goals for the project. They also make sure that dealines get met and keep the team on track. I think that I could do a good job of setting a plan for the project and keeping everyone on track.
+<br><br/>
+	Product Manager: The product manager helps to plan the project. They also market the product and figure out what people want. They come up with stratagies to get the product to the general public. I wouldn't be good at this job because I don't like talking to people.
+<br><br/>
+	Realease Engineer: The release engineer document the project and help to set a time table for the release of it. They make sure that the game is released in a timely fassion. I think that i could be good at coming up with a plan for the project.Software Engineer: The software engineer codes the project. They are the ones that add anything to the game. Also, they make the controls and all the graphics. They will also keep the game updated. I wouldn't be very good at theis job because I have very little expirience with any coding.
+
+
+      </p>
+    </main>
+  </body>
+</html>

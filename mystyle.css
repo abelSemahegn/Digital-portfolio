@@ -1,0 +1,121 @@
+/* Reset default margin and padding for all elements */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #161719;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+hr.dashed {
+  border-top: 3px dashed #bbb;
+}
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #181a1b;
+  color: #f7f7f7;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
+.flex-container {
+  display: flex;
+  
+}
+.flex-container > div {
+  border-top: 3px dashed #bbb;
+  border-bottom: 3px dashed #bbb;
+  border-right: 3px dashed #bbb;
+  border-left: 3px dashed #bbb;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+/* Style for the main headings */
+h1, h2,h3 {
+  font-weight: bold;
+  
+}
+
+h4{
+    color: #727272;
+    padding:10px;
+}
+h1 {
+  font-size: 80px;
+  margin-top: 0;
+  padding-bottom: 3px;
+  text-align: center;
+  color:#c5b6fc;
+  font: robert;
+}
+
+h2 {
+  font-size: 2rem;
+  color: #b9e4ff;
+  text-decoration: underline;
+}
+
+/* Style for paragraphs */
+p {
+padding-bottom: 25px;
+  font-size: 20px;
+  
+}
+
+/* Add some spacing between elements */
+
+/* Reset default margin and padding for all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 10px;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  font-size: 25px;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.typing-animation {
+  text-align: center;
+  font-size: 24px;
+  padding-top: 25vh;
+}
+
+#text {
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  border-right: 2px solid #fff;
+  animation: typing 2s steps(13) 1s forwards, blink-caret 0.5s step-end infinite;
+}
+
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent; }
+  50% { border-color: #fff; }
+}

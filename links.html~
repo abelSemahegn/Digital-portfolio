@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <link rel="stylesheet" href="mystyle.css" />
+    <meta charset="utf-8">
+    <title>HOME</title>       
+    <div class="navbar">
+        <div class="dropdown">
+            <button class="dropbtn">Menu</button>
+            <div class="dropdown-content">
+                <a href="index.html">Home</a>
+                <a href="aboutme.html">About</a>
+                <a href="links.html">Journal</a>
+            </div>
+        </div>
+    </div>
+</head>
+<body>
+  <h1>CS-I</h1>
+  
+  <h1>CS-II</h1>
+</body>
+</html>

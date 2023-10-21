@@ -1,0 +1,17 @@
+<html>
+  <link rel="stylesheet" href="mystyle.css">
+  <head>
+ <link rel="stylesheet" href="mystyle.css">
+      <div class="topnav">
+          <a class="active" href="index.html">Home</a> 
+          <a href="aboutme.html">Aboutme</a>
+          <a href="CS-I/index.html">Journals</a>
+      </div>
+
+  </head>
+  <body>
+  <h1>About me</h1>
+  <p>I am into computers in my free time. I am taking computer science. I am learning how to code</p>
+  <center><img src="https://cdn.theatlantic.com/thumbor/GwS2ZqzUl6q7_cwh0hKKVoeulVI=/0x104:2000x1229/1600x900/media/img/mt/2017/09/ComputerLyfe/original.jpg" width=600 height=300></center>
+  </body>
+</html>

@@ -1,0 +1,132 @@
+/* Reset default margin and padding for all elements */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #161719;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  hr.dashed {
+    border-top: 3px dashed #bbb;
+  }
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #181a1b;
+    color: #f7f7f7;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
+  }
+  
+  /* Style for the main headings */
+  h1, h2,h3 {
+    font-weight: bold;
+    
+  }
+
+  h4{
+    color: #727272;
+  }
+  h1 {
+    font-size: 80px;
+    margin-top: 0;
+    padding-bottom: 3px;
+    text-align: center;
+    color:#c5b6fc;
+    font: robert;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #b9e4ff;
+    text-decoration: underline;
+  }
+  
+  /* Style for paragraphs */
+  p {
+  padding-bottom: 25px;
+    font-size: 20px;
+    
+  }
+  a{
+
+  }
+  /* Add some spacing between elements */
+
+/* Reset default margin and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the entire navbar */
+.navbar {
+    background-color: #333;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/* Style for the dropdown button */
+.dropbtn {
+    background-color: #333;
+    color: white;
+    padding: 17px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* Style for the dropdown content */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #333;
+    min-width: auto;
+    z-index: 1;
+    top: 50px; /* Adjust the top value to your preference */
+    opacity: 0; /* Initial opacity set to 0 */
+    transition: opacity 0.5s; /* Adjust the transition duration for a slower fade-out effect */
+}
+
+/* Style for the dropdown links */
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Change link color on hover */
+.dropdown-content a:hover {
+    background-color: #00bcd4; /* Change the background color on hover */
+    color: #333;
+}
+
+/* Show the dropdown content when hovering over the dropdown button */
+.dropdown:hover .dropdown-content {
+    display: block;
+    opacity: 1; /* Set opacity to 1 on hover */
+}
+a:link {
+  color: #b9e4ff; /* Color before clicking */
+  text-decoration: none; /* Remove underline if you don't want it */
+}
+
+a:visited {
+  color: #b9e4ff; /* Color after clicking */
+  text-decoration: none; /* Remove underline if you don't want it */
+}
+
+a:hover {
+  /* Define a color for when the mouse hovers over the link, if desired */
+  color: #00bcd4;
+  text-decoration: underline; /* You can add underlines on hover if preferred */
+}
+sub{
+  padding-left: 10px;
+  padding-right: 10px;
+}

@@ -1,10 +1,11 @@
 <html>
-
+   <Font color="MarbleBlue">
    <head>
         <title>J10--</title>
-        <link rel="stylesheet" href="mystyle.css">
-    </head>
-    <body>
+   </head>
+     <body style="background-color: LemonChiffon" >
+       <a herf="" >
+         <header>
             <p><b>Name:</b> Abel Semahegn</p>
             <p><b>Journal:</b> J10--</p>
             <p><b>Date:</b></p>
@@ -73,7 +74,7 @@
             <h2>Free Reflection: How has what I've learned affected my thinking?</h2>
             <p></p>
 
-
+        </head>
   </body>
 </html>
       
