@@ -119,3 +119,24 @@ nav a {
   from, to { border-color: transparent; }
   50% { border-color: #fff; }
 }
+
+.glass{
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0));
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border:1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+/* Define a class for the container of small logos */
+.logo-container {
+  display: flex;
+  align-items: center; /* Align items vertically in the center, optional */
+}
+
+/* Define a class for small logos */
+.small-logo {
+  max-width: 100px; /* Adjust the maximum width as needed */
+  height: auto;
+  margin-right: 10px; /* Optional: Add spacing between logos */
+}
