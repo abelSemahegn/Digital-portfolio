@@ -71,7 +71,9 @@ padding-bottom: 25px;
   padding: 0;
 }
 
-
+.blob{
+  z-index: -1;
+}
 
 header {
   background-color: #333;
